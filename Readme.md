@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Contact.cs](./CS/InitializeObjects.Module/Contact.cs) (VB: [Contact.vb](./VB/InitializeObjects.Module/Contact.vb))**
+<!-- default file list end -->
 # How to: Initialize Business Objects with Default Property Values in XPO
 
 
