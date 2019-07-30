@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to: Initialize Business Objects with Default Property Values in XPO
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2053)**
+**[[Run Online]](https://codecentral.devexpress.com/e2053/)**
 <!-- run online end -->
 
 
